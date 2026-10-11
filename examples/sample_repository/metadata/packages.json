@@ -1,0 +1,57 @@
+[
+  {
+    "name": "popm_demo_app",
+    "version": "1.0",
+    "filename": "popm_demo_app-1.0-py3-none-any.whl",
+    "kind": "wheel",
+    "sha256": "ea820939a02293ffc0a16983041978cb6fd639c7c845980212aea4978f011f19",
+    "size": 993,
+    "source_url": "local-demo://popm_demo_app-1.0-py3-none-any.whl",
+    "hash_origin": "computed",
+    "downloaded_at": "2026-10-11T13:12:47+00:00",
+    "requires_python": "",
+    "requires_dist": [
+      "popm_demo_lib>=1.0",
+      "popm_demo_colors; sys_platform == 'win32'"
+    ]
+  },
+  {
+    "name": "popm_demo_colors",
+    "version": "0.4",
+    "filename": "popm_demo_colors-0.4-py3-none-any.whl",
+    "kind": "wheel",
+    "sha256": "ccec0a3dde1a3f55c18ddb33d50482b04526f4720ca0d384a79a9fd0ee068cd3",
+    "size": 967,
+    "source_url": "local-demo://popm_demo_colors-0.4-py3-none-any.whl",
+    "hash_origin": "computed",
+    "downloaded_at": "2026-10-11T13:12:47+00:00",
+    "requires_python": "",
+    "requires_dist": []
+  },
+  {
+    "name": "popm_demo_lib",
+    "version": "1.0",
+    "filename": "popm_demo_lib-1.0-py3-none-any.whl",
+    "kind": "wheel",
+    "sha256": "c9caa6b4ff6bde3e0823fb786426d0da062583e96c6af552be426492331d2a11",
+    "size": 940,
+    "source_url": "local-demo://popm_demo_lib-1.0-py3-none-any.whl",
+    "hash_origin": "computed",
+    "downloaded_at": "2026-10-11T13:12:47+00:00",
+    "requires_python": "",
+    "requires_dist": []
+  },
+  {
+    "name": "popm_demo_lib",
+    "version": "1.1",
+    "filename": "popm_demo_lib-1.1-py3-none-any.whl",
+    "kind": "wheel",
+    "sha256": "2f2fb08849a89151a4e940cc03047ddc5cb47f01f82a3327afe9d536c07965fb",
+    "size": 937,
+    "source_url": "local-demo://popm_demo_lib-1.1-py3-none-any.whl",
+    "hash_origin": "computed",
+    "downloaded_at": "2026-10-11T13:12:47+00:00",
+    "requires_python": "",
+    "requires_dist": []
+  }
+]

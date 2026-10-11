@@ -1,0 +1,8 @@
+{
+  "target": {
+    "python": "3.12",
+    "os": "windows",
+    "arch": "x86_64"
+  },
+  "sources": []
+}

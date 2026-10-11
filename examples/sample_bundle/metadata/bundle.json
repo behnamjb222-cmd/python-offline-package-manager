@@ -1,0 +1,46 @@
+{
+  "format": 1,
+  "created_at": "2026-10-11T13:12:47+00:00",
+  "popm_version": "0.1.0",
+  "repository": "sample_repository",
+  "target": {
+    "python": "3.12",
+    "os": "windows",
+    "arch": "x86_64"
+  },
+  "selection": [
+    "popm_demo_app"
+  ],
+  "files": [
+    {
+      "filename": "popm_demo_app-1.0-py3-none-any.whl",
+      "name": "popm_demo_app",
+      "version": "1.0",
+      "kind": "wheel",
+      "sha256": "ea820939a02293ffc0a16983041978cb6fd639c7c845980212aea4978f011f19",
+      "size": 993,
+      "source_url": "local-demo://popm_demo_app-1.0-py3-none-any.whl"
+    },
+    {
+      "filename": "popm_demo_colors-0.4-py3-none-any.whl",
+      "name": "popm_demo_colors",
+      "version": "0.4",
+      "kind": "wheel",
+      "sha256": "ccec0a3dde1a3f55c18ddb33d50482b04526f4720ca0d384a79a9fd0ee068cd3",
+      "size": 967,
+      "source_url": "local-demo://popm_demo_colors-0.4-py3-none-any.whl"
+    },
+    {
+      "filename": "popm_demo_lib-1.1-py3-none-any.whl",
+      "name": "popm_demo_lib",
+      "version": "1.1",
+      "kind": "wheel",
+      "sha256": "2f2fb08849a89151a4e940cc03047ddc5cb47f01f82a3327afe9d536c07965fb",
+      "size": 937,
+      "source_url": "local-demo://popm_demo_lib-1.1-py3-none-any.whl"
+    }
+  ],
+  "contains_python_interpreter": false,
+  "note": "Package files only. A Python interpreter is NOT included.",
+  "incomplete_warnings": []
+}

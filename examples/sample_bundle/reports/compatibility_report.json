@@ -1,0 +1,38 @@
+{
+  "repository": "sample_repository",
+  "target": {
+    "python": "3.12",
+    "os": "windows",
+    "arch": "x86_64"
+  },
+  "summary": {
+    "COMPATIBLE": 3,
+    "INCOMPATIBLE": 0,
+    "UNKNOWN": 0,
+    "MISSING_DEPENDENCY": 0
+  },
+  "note": "Compatibility is judged from wheel tags, Requires-Python and Requires-Dist. A successful install does not guarantee correct run-time behaviour.",
+  "files": [
+    {
+      "filename": "popm_demo_app-1.0-py3-none-any.whl",
+      "name": "popm_demo_app",
+      "version": "1.0",
+      "status": "COMPATIBLE",
+      "reasons": []
+    },
+    {
+      "filename": "popm_demo_colors-0.4-py3-none-any.whl",
+      "name": "popm_demo_colors",
+      "version": "0.4",
+      "status": "COMPATIBLE",
+      "reasons": []
+    },
+    {
+      "filename": "popm_demo_lib-1.1-py3-none-any.whl",
+      "name": "popm_demo_lib",
+      "version": "1.1",
+      "status": "COMPATIBLE",
+      "reasons": []
+    }
+  ]
+}

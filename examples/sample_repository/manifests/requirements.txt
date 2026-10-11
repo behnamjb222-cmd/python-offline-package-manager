@@ -1,0 +1,3 @@
+popm_demo_app==1.0
+popm_demo_colors==0.4
+popm_demo_lib==1.1

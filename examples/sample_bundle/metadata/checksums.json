@@ -1,0 +1,12 @@
+{
+  "manifests/requirements.txt": "ceb0d68637a9fc0a30ee7f3d195d0a77feca136fda907f6815c1cfcf5d8efb3e",
+  "manifests/environment.json": "feb6b58f03287e8900e1222bae594c99db1536319fb49a0764b8f6171381b494",
+  "reports/compatibility_report.json": "9c4eab9c1d6d6af86c1518accb8f2bbc03f651df9239e3c94751c90eceece701",
+  "install_offline.py": "b607807f7e510351adc505de7a9437c49680ce89912098d73321d9bc4f00d30c",
+  "README_EN.md": "7cb948850c20008122159083658eb0f526add756374f4db9332afaf43c793d82",
+  "README_FA.md": "c8dde7fc5e7d4675ebc94e84f1c4827a63c1774cc98d0271152f64be96c7caa0",
+  "packages/popm_demo_app-1.0-py3-none-any.whl": "ea820939a02293ffc0a16983041978cb6fd639c7c845980212aea4978f011f19",
+  "packages/popm_demo_colors-0.4-py3-none-any.whl": "ccec0a3dde1a3f55c18ddb33d50482b04526f4720ca0d384a79a9fd0ee068cd3",
+  "packages/popm_demo_lib-1.1-py3-none-any.whl": "2f2fb08849a89151a4e940cc03047ddc5cb47f01f82a3327afe9d536c07965fb",
+  "metadata/bundle.json": "a8eb6c2bc0d40c63362531ae814631022cd3eec0cced505a14623948358ee706"
+}

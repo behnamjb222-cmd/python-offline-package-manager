@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "uid": "ec9d2526924b4b8483cee6c13e9f89ed",
+  "name": "sample_repository",
+  "description": "Tiny demo packages (no real functionality)",
+  "created_at": "2026-10-11T13:12:47+00:00",
+  "updated_at": "2026-10-11T13:12:47+00:00",
+  "target": {
+    "python": "3.12",
+    "os": "windows",
+    "arch": "x86_64"
+  },
+  "target_tags": [],
+  "files": 4,
+  "size": 3837,
+  "packages": 3,
+  "validation_status": "unknown"
+}
