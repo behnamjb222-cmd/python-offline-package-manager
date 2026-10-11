@@ -1,0 +1,7 @@
+# runtime
+PySide6-Essentials>=6.6
+packaging>=23.2
+# development / test / build
+pytest>=8
+pyflakes>=3
+pyinstaller>=6.6
